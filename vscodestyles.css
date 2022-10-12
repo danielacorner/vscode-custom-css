@@ -1,22 +1,22 @@
 .monaco-shell {
-  font-family: "Operator Mono Lig", "Inconsolata", monospace;
+  font-family: "Operator Mono Lig", "Dank Mono", system-ui-monospace, "Inconsolata", monospace;
 }
 
 /*multiple fonts
 https://gist.github.com/nickytonline/8086319bf5836797ee3dea802a77000d*/
     .mtki
      {
-      font-family: "Operator Mono Lig", "Inconsolata", monospace;
+      font-family: "Operator Mono Lig", "Dank Mono", system-ui-monospace, "Inconsolata", monospace;
     }
 
 /*    .mtk4 {
-      font-family: "Operator Mono Lig", "Inconsolata", monospace;
+      font-family: "Operator Mono Lig", "Dank Mono", system-ui-monospace, "Inconsolata", monospace;
       font-size: 1.4em;
     }
 
 
     .monaco-icon-label-description-container .label-name {
-      font-family: "Operator Mono Lig", "Inconsolata", monospace;
+      font-family: "Operator Mono Lig", "Dank Mono", system-ui-monospace, "Inconsolata", monospace;
       font-size: 1.3
       em;
     }*/

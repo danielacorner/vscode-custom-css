@@ -6,17 +6,17 @@
 https://gist.github.com/nickytonline/8086319bf5836797ee3dea802a77000d*/
     .mtki
      {
-      font-family: "Operator Mono Lig";
+      font-family: "Operator Mono Lig", "Inconsolata", monospace;
     }
 
 /*    .mtk4 {
-      font-family: "Operator Mono Lig";
+      font-family: "Operator Mono Lig", "Inconsolata", monospace;
       font-size: 1.4em;
     }
 
 
     .monaco-icon-label-description-container .label-name {
-      font-family: "Operator Mono Lig";
+      font-family: "Operator Mono Lig", "Inconsolata", monospace;
       font-size: 1.3
       em;
     }*/
